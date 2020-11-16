@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
-  "name": "just us",
-=======
   "name": "fat simulator",
->>>>>>> 679872b84040534ff228f85eea9aaa05d23f7723
   "tree": {
     "$className": "DataModel",
     "ReplicatedStorage": {
